@@ -6,7 +6,7 @@ export default defineNuxtConfig({
       crawlLinks: true
     }
   },
-  ssr: true,
+  // ssr: true,
   vite: {
     css: {
       preprocessorOptions: {

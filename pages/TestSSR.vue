@@ -22,7 +22,7 @@ function incrementServerCount() {
     <h1>Testing SSR</h1>
 
     This should show with or without JS {{ incrementServerCount() }}.
-    <button onclick="incrementServerCount()" />
+    <!-- <button onclick="incrementServerCount()" /> -->
 
     <!-- <ClientOnly>
         This is from the client only! {{ incrementClientCount()  }}
