@@ -10,8 +10,8 @@ const { data } = await useFetch('/api/hello')
     <h1>Testing SSR, from the server side</h1>
 
     This should show from the Client: 
-    <ClientOnly>
+    <!-- <ClientOnly>
         this is from the client!
-    </ClientOnly>
+    </ClientOnly> -->
 
 </template>

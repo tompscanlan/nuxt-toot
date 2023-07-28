@@ -24,8 +24,8 @@ function incrementServerCount() {
     This should show with or without JS {{ incrementServerCount() }}.
     <button onclick="incrementServerCount()" />
 
-    <ClientOnly>
+    <!-- <ClientOnly>
         This is from the client only! {{ incrementClientCount()  }}
-    </ClientOnly>
+    </ClientOnly> -->
 
 </template>
