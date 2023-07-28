@@ -16,5 +16,6 @@ function getRandUpToMax(max: number) : number {
 
   <RandomQuote  :id="getRandUpToMax(99)"/>
 
-  <RouterLink to="about">About</RouterLink>
+  <RouterLink to="about">About</RouterLink> |
+  <RouterLink to="TestSSR">Test SSR</RouterLink>
 </template>
