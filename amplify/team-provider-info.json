@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nuxttoot-dev-13759-authRole",
+      "UnauthRoleArn": "arn:aws:iam::433321780850:role/amplify-nuxttoot-dev-13759-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::433321780850:role/amplify-nuxttoot-dev-13759-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nuxttoot-dev-13759-deployment",
+      "UnauthRoleName": "amplify-nuxttoot-dev-13759-unauthRole",
+      "StackName": "amplify-nuxttoot-dev-13759",
+      "StackId": "arn:aws:cloudformation:us-east-1:433321780850:stack/amplify-nuxttoot-dev-13759/eb3659a0-2d08-11ee-8158-128db37ceff1",
+      "AmplifyAppId": "dwx92ssdie98v"
+    }
+  }
+}

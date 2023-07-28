@@ -1,0 +1,17 @@
+{
+  "projectName": "nuxttoot",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react",
+    "config": {
+      "SourceDir": "src",
+      "DistributionDir": ".output/public",
+      "BuildCommand": "npm run generate",
+      "StartCommand": "npm run dev"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
